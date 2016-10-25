@@ -38,7 +38,8 @@ namespace DosBox.Command.Library
                                new CmdMkDir("md", drive),
                                new CmdMkFile("mf", drive),
                                new CmdMkFile("mkfile", drive),
-                               new CmdExit("exit", drive)
+                               new CmdExit("exit", drive),
+                               new CmdPrintf("printf", drive)
                                // Add commands here
                            };
         }
