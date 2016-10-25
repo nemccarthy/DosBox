@@ -1,0 +1,5 @@
+C:\Users\Mahmoud\playground\PSD\DosBox\DosBox\bin\Debug\DosBox.exe
+C:\Users\Mahmoud\playground\PSD\DosBox\DosBox\bin\Debug\DosBox.pdb
+C:\Users\Mahmoud\playground\PSD\DosBox\DosBox\obj\Debug\DosBox.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\playground\PSD\DosBox\DosBox\obj\Debug\DosBox.exe
+C:\Users\Mahmoud\playground\PSD\DosBox\DosBox\obj\Debug\DosBox.pdb

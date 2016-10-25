@@ -1,0 +1,8 @@
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\bin\Debug\Test.dll
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\bin\Debug\Test.pdb
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\bin\Debug\DosBox.exe
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\bin\Debug\DosBox.pdb
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\obj\Debug\Test.dll
+C:\Users\Mahmoud\playground\PSD\DosBox\Test\obj\Debug\Test.pdb

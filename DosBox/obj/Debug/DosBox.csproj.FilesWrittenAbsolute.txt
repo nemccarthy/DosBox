@@ -1,0 +1,6 @@
+/Users/nathan/DEV/TMP/DosBox/DosBox/bin/Debug/DosBox.exe.mdb
+/Users/nathan/DEV/TMP/DosBox/DosBox/bin/Debug/DosBox.pdb
+/Users/nathan/DEV/TMP/DosBox/DosBox/bin/Debug/DosBox.exe
+/Users/nathan/DEV/TMP/DosBox/DosBox/obj/Debug/DosBox.exe
+/Users/nathan/DEV/TMP/DosBox/DosBox/obj/Debug/DosBox.exe.mdb
+/Users/nathan/DEV/TMP/DosBox/DosBox/obj/Debug/DosBox.pdb

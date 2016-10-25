@@ -1,0 +1,11 @@
+/Users/nathan/DEV/TMP/DosBox/Test/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/Test.dll.mdb
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/Test.pdb
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/Test.dll
+/Users/nathan/DEV/TMP/DosBox/Test/obj/Debug/Test.dll
+/Users/nathan/DEV/TMP/DosBox/Test/obj/Debug/Test.dll.mdb
+/Users/nathan/DEV/TMP/DosBox/Test/obj/Debug/Test.pdb
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/DosBox.exe
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/DosBox.exe.mdb
+/Users/nathan/DEV/TMP/DosBox/Test/bin/Debug/DosBox.pdb
