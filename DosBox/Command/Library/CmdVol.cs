@@ -13,7 +13,15 @@ namespace DosBox.Command.Library
 
         public override void Execute(IOutputter outputter)
         {
-            outputter.PrintLine(base.Drive.DriveName);
+            if (GetParameters().Count == 0 || (GetParameters().Count == 1 && GetParameters()[0] == "C:"))
+            {
+                outputter.PrintLine($"Volume in drive C is Hello World");
+                outputter.PrintLine($"Volume Serial Number is 1E16-3FE3");
+            }
+            else
+            {
+                outputter.PrintLine("The system cannot find the drive specified.");
+            }
         }
     }
 }
