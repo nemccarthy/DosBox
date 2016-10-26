@@ -15,7 +15,7 @@ namespace DosBox.Command.Library
         {
             if (GetParameters().Count == 0 || (GetParameters().Count == 1 && GetParameters()[0] == "C:"))
             {
-                outputter.PrintLine($"Volume in drive C is Hello World");
+                outputter.PrintLine($"Volume in drive C is {base.Drive.Label}");
                 outputter.PrintLine($"Volume Serial Number is 1E16-3FE3");
             }
             else

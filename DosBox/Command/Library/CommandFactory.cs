@@ -41,7 +41,8 @@ namespace DosBox.Command.Library
                                new CmdExit("exit", drive),
                                new CmdPrintf("printf", drive),
                                new CmdVol("vol", drive),
-                               new CmdTestSetup("testsetup", drive) //should not appear in help text
+                               new CmdTestSetup("testsetup", drive), //should not appear in help text
+                               new CmdLabel("label", drive)
                                // Add commands here
                            };
         }

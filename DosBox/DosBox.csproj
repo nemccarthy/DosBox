@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Command\Library\CmdExit.cs" />
+    <Compile Include="Command\Library\CmdLabel.cs" />
     <Compile Include="Command\Library\CmdPrintf.cs" />
     <Compile Include="Command\Library\CmdTestSetup.cs" />
     <Compile Include="Command\Library\CmdVol.cs" />

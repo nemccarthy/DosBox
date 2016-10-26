@@ -34,11 +34,12 @@ namespace DosBox.Filesystem
         /// Name of the drive. May only contain a single uppercase letter.
         /// If longer name given, only the first character is taken.
         /// </param>
-        public Drive(string driveLetter)
+        public Drive(string driveLetter, string lbl = "Hello World")
         {
             this.driveLetter = driveLetter.Substring(0, 1);
             this.driveLetter = this.driveLetter.ToUpper();
-            Label = string.Empty;
+            this.Label = lbl;
+//            Label = string.Empty;
             rootDir = new Directory(this.driveLetter + ":");
             currentDir = rootDir;
         }
