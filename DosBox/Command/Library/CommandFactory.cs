@@ -39,7 +39,9 @@ namespace DosBox.Command.Library
                                new CmdMkFile("mf", drive),
                                new CmdMkFile("mkfile", drive),
                                new CmdExit("exit", drive),
-                               new CmdPrintf("printf", drive)
+                               new CmdPrintf("printf", drive),
+                               new CmdVol("vol", drive),
+                               new CmdTestSetup("testsetup", drive) //should not appear in help text
                                // Add commands here
                            };
         }
